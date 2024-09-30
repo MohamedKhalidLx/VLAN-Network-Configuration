@@ -45,7 +45,11 @@ Refer to the [Lab-1_Mohamed_Khaled.pkt](Lab-1_Mohamed_Khaled.pkt).
 5. Configure inter-VLAN routing on the router.
 6. Apply DHCP configuration on the router to assign IP addresses dynamically.
 
-## How to Use:
-1. Clone the repository: 
-   ```bash
-   git clone https://github.com/YourUsername/VLAN-Network-Configuration.git
+## **Contact**
+For any questions or feedback, please contact:
+- **Name**: Mohamed Khaled Mahmoud Sayed
+- **Email**: Mo7ammad244@gmail.com
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
