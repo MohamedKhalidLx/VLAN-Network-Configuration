@@ -1,0 +1,56 @@
+Network Subnetting: (192.168.1.0/24) == 8 Sub-Networks
+1- Network Address: 192.168.1.0/27				(VLAN 10)
+	Subnet-Mask: 255.255.255.224
+	Broadcast IP:192.168.1.31/27	
+	No. of Valid Hosts: 2^5 - 2 = 30 Device 
+	First address: 192.168.1.1/27
+	Last address: 192.168.1.30/27
+		
+2- Network ID: 192.168.1.32/27				(VLAN 20)
+	Subnet-Mask: 255.255.255.224
+	Broadcast IP:192.168.1.63/27	
+	No. of Valid Hosts: 2^5 - 2 = 30 Device 
+	First address: 192.168.1.33/27
+	Last address: 192.168.1.62/27
+
+3- Network ID: 192.168.1.64/27				(VLAN 30)
+	Subnet-Mask: 255.255.255.224
+	Broadcast IP:192.168.1.95/27	
+	No. of Valid Hosts: 2^5 - 2 = 30 Device 
+	First address: 192.168.1.65/27
+	Last address: 192.168.1.94/27
+
+4- Network ID: 192.168.1.96/27				(VLAN 40 "Native | Loopback address")
+	Subnet-Mask: 255.255.255.224
+	Broadcast IP:192.168.1.127/27	
+	No. of Valid Hosts: 2^5 - 2 = 30 Device 
+	First address: 192.168.1.97/27
+	Last address: 192.168.1.126/27
+
+5- Network ID: 192.168.1.128/27				(VLAN 50 "Management | SVI")
+	Subnet-Mask: 255.255.255.224
+	Broadcast IP:192.168.1.159/27	
+	No. of Valid Hosts: 2^5 - 2 = 30 Device 
+	First address: 192.168.1.129/27
+	Last address: 192.168.1.158/27
+
+6- Network ID: 192.168.1.160/27
+	Subnet-Mask: 255.255.255.224
+	Broadcast IP:192.168.1.191/27	
+	No. of Valid Hosts: 2^5 - 2 = 30 Device 
+	First address: 192.168.1.161/27
+	Last address: 192.168.1.190/27
+
+7- Network ID: 192.168.1.192/27
+	Subnet-Mask: 255.255.255.224
+	Broadcast IP:192.168.1.223/27	
+	No. of Valid Hosts: 2^5 - 2 = 30 Device 
+	First address: 192.168.1.193/27
+	Last address: 192.168.1.222/27
+
+8- Network ID: 192.168.1.224/27
+	Subnet-Mask: 255.255.255.224
+	Broadcast IP:192.168.1.255/27	
+	No. of Valid Hosts: 2^5 - 2 = 30 Device 
+	First address: 192.168.1.225/27
+	Last address: 192.168.1.254/27
