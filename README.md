@@ -29,14 +29,13 @@ For example:
 Complete subnetting details are in the [Network_Subnetting.txt](Network_Subnetting.txt) file.
 
 ### Address Table:
-Refer to the [Addressing Table.pdf](Addressing%20Table.pdf) for complete IP address assignments.
+Please take a look at the [Addressing Table.pdf](Addressing%20Table.pdf) for complete IP address assignments.
 
 ### Network Topology:
 Refer to the [Lab-1_Mohamed_Khaled.pkt](Lab-1_Mohamed_Khaled.pkt).
 - User: admin
 - Pass:123
 - Privilege: 12345
-- Console: 123456
 
 ## Configuration Files:
 - **Switch 1 (S1)**, **Switch 2 (S2)**, **Distribution Switch (Dis-S)**, and **Router 1 (R1)** configurations are available in the [My_Configuration.txt](My_Configuration.txt) file.
